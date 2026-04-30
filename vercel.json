@@ -1,0 +1,6 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/:username((?!login|register|dashboard|profile|404|index|_next|favicon).*)", "destination": "/profile.html?u=:username" }
+  ]
+}
