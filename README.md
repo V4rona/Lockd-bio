@@ -1,4 +1,4 @@
-🔐 Lockd.bio
+🔐 ## Lockd.bio
 
 Lockd.bio is a bio link platform with a built-in private zone.
 
